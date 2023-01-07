@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    font-family: 'Noto Serif', serif;
+}
+.btn-primary{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 5px;
+    background: #3a2dee;
+    margin-top: 20px;
+}
+#hero{
+    background-image: url('../mission-developer/images/banner/banner2.png');
+    
+    width: 100%;
+    height: 809px;
+    left: 1600px;
+    top: 0px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hero-box{
+position: absolute;
+width: 525px;
+height: 228px;
+right: 1200px;
+top: 216px;
+}
+.hero-heading{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: left;
+}
+.hero-desc{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: left;
+    margin-top: 20px;
+}
+#main{
+    background-color: #FFFFFF;
+    width: 100%;
+    height: 809px;
+    left: 1600px;
+    top: 0px;
+    background-position: center;
+    display: flex;
+    
+}
+.main-box{
+    position:relative;
+    width: 525px;
+    height: 228px;
+    right: 20px;
+    top: 216px;
+}
+
+.main-heading{
+    position:relative;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+
+}
+.main-desc{
+    position: relative;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+    margin-top: 20px;
+}
+.main-img{
+    
+}
