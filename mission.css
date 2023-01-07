@@ -124,3 +124,77 @@ margin-bottom: 30px;
     display: flex;
     justify-content: center;
 }
+.four{
+    background: linear-gradient(to right, rgba(236, 118, 7, 0.6), rgba(235, 152, 85, 0.1)), url(./images/watch.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 60vw;
+    margin: 0 auto;
+    margin-bottom: 40px;
+    padding: 40px 20px;
+    border-radius: 10px;
+    
+      
+}
+.four-heading{
+    color: #FFFFFF;
+    font-size: 35px;
+}
+.footer-box{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 100px;
+    max-width: 100%;
+}
+.footer-container h1,.footer-container p{
+        color: #FFFFFF;
+}
+.footer-container{
+    width: 30%;
+
+}
+.footer-sub{
+    width: 48%;
+    margin-left: auto;
+   
+}
+.footer-container h1{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.footer-footer-para{
+    margin-bottom: 15px;
+
+}
+.sub{
+    color: #FFFFFF;
+    margin-bottom: 10px;
+    text-align: start !important;
+    width: 50%;
+}
+.last-foot{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    
+    
+}
+input{
+    padding: 20px;
+    width: 100%;
+}
+.sub-but{
+    width: 170px;
+
+}
+.finish{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.margn{
+    margin-top: 10px;
+}
