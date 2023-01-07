@@ -80,3 +80,47 @@ top: 216px;
     height: auto;
     width: 420px;
 }
+.what-plans{
+    background-color: #FFFFFF;
+    width: 1130px;
+    max-width: 95%;
+    top: 0px;
+    align-items: center;
+    margin: 0 auto;
+    justify-content:space-between;
+    padding: 100px 300px;
+}
+.plans-title{
+text-align: center;
+font-weight: 700;
+font-size: 40px;
+margin-bottom: 30px;
+
+}
+.skills-container{
+    display: flex;
+    gap: 24px;
+    position: relative;
+}
+.skill{
+    background: #FFFFFF;
+    border-radius: 5px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.skill-title{
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.skill-discretion{
+    color: #757575;
+}
+.skill-container-box{
+    display: flex;
+    justify-content: center;
+}
